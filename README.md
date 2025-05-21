@@ -1,12 +1,12 @@
 # CodeCrew
 
-![CodeCrew Logo](codecrew/public/favicon.ico)
+![CodeCrew Logo](codecrew/public/images/projects/CodeCrew.png)
 
 A modern, responsive website for a software engineering company built with React, TypeScript, and Tailwind CSS.
 
 ## Live Demo
 
-Visit the live site: [CodeCrew](https://github.com/wealthymanyasa/codecrew)
+Visit the live site: [CodeCrew](https://codecrew-six.vercel.app/)
 
 ## Features
 
